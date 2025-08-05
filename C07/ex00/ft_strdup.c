@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strdup.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amoufakk <amoufakk@student.42.fr>          +#+  +:+       +#+        */
+/*   By: dgexter <dgexter@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/02 12:53:11 by amoufakk          #+#    #+#             */
-/*   Updated: 2025/08/02 13:12:55 by amoufakk         ###   ########.fr       */
+/*   Updated: 2025/08/05 08:22:15 by dgexter          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<stdlib.h>
+#include <stdlib.h>
 
 int	ft_strlen(char *src)
 {

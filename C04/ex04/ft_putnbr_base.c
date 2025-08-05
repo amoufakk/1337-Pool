@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_base.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amoufakk <amoufakk@student.42.fr>          +#+  +:+       +#+        */
+/*   By: dgexter <dgexter@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/26 16:56:29 by amoufakk          #+#    #+#             */
-/*   Updated: 2025/07/27 18:53:13 by amoufakk         ###   ########.fr       */
+/*   Updated: 2025/08/05 12:19:58 by dgexter          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<unistd.h>
+#include <unistd.h>
 
 void	ft_putchar(char c)
 {

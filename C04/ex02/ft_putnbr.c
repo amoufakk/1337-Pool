@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amoufakk <amoufakk@student.42.fr>          +#+  +:+       +#+        */
+/*   By: dgexter <dgexter@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/26 15:04:59 by amoufakk          #+#    #+#             */
-/*   Updated: 2025/07/26 15:51:35 by amoufakk         ###   ########.fr       */
+/*   Updated: 2025/08/05 12:19:46 by dgexter          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<unistd.h>
+#include <unistd.h>
 
 void	ft_putnbr(int nb)
 {

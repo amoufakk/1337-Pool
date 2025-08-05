@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_range.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amoufakk <amoufakk@student.42.fr>          +#+  +:+       +#+        */
+/*   By: dgexter <dgexter@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/02 13:41:17 by amoufakk          #+#    #+#             */
-/*   Updated: 2025/08/04 10:48:43 by amoufakk         ###   ########.fr       */
+/*   Updated: 2025/08/05 08:22:15 by dgexter          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include<stdlib.h>
+#include <stdlib.h>
 
 int	ft_ultimate_range(int **range, int min, int max)
 {

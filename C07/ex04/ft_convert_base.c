@@ -6,9 +6,11 @@
 /*   By: dgexter <dgexter@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/05 13:38:38 by dgexter           #+#    #+#             */
-/*   Updated: 2025/08/05 20:31:22 by dgexter          ###   ########.fr       */
+/*   Updated: 2025/08/06 20:28:51 by dgexter          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdlib.h>
 
 int	is_valid_base(char *base);
 int	ft_atoi_base(char *str, char *base);

@@ -6,11 +6,9 @@
 /*   By: dgexter <dgexter@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/28 14:32:43 by amoufakk          #+#    #+#             */
-/*   Updated: 2025/08/05 20:17:50 by dgexter          ###   ########.fr       */
+/*   Updated: 2025/08/06 20:16:13 by dgexter          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <unistd.h>
 
 int	ft_strlen(char *base)
 {
